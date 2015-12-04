@@ -1,6 +1,9 @@
 # github
 getting started with github
 
+git config --global user.name "User Name"
+git config --global user.email "username@gmail.com"
+
 1. go to folder with  project code 
 cd ~/Hello-World
 2. git init
